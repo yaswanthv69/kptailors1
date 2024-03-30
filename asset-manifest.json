@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kptailors1/static/css/main.0bae5df1.css",
-    "main.js": "/kptailors1/static/js/main.3edade8b.js",
-    "static/media/machine.jpg": "/kptailors1/static/media/machine.f9324250f4217b298d4d.jpg",
-    "static/media/kp.jpg.jpg": "/kptailors1/static/media/kp.jpg.2a107e9ef511cd3ad0d5.jpg",
-    "static/media/DESIGN.jpg": "/kptailors1/static/media/DESIGN.0a740eaec4d43a3cb31d.jpg",
-    "static/media/2022-08-05.jpg": "/kptailors1/static/media/2022-08-05.ac7c5fb4c83433dfd416.jpg",
-    "static/media/2021-12-15 (1).jpg": "/kptailors1/static/media/2021-12-15 (1).a37d76c11823cba91f12.jpg",
-    "index.html": "/kptailors1/index.html",
-    "main.0bae5df1.css.map": "/kptailors1/static/css/main.0bae5df1.css.map",
-    "main.3edade8b.js.map": "/kptailors1/static/js/main.3edade8b.js.map"
+    "main.css": "/kptailorsnandyal/static/css/main.7789d85b.css",
+    "main.js": "/kptailorsnandyal/static/js/main.3edade8b.js",
+    "static/media/machine.jpg": "/kptailorsnandyal/static/media/machine.f9324250f4217b298d4d.jpg",
+    "static/media/kp.jpg.jpg": "/kptailorsnandyal/static/media/kp.jpg.2a107e9ef511cd3ad0d5.jpg",
+    "static/media/DESIGN.jpg": "/kptailorsnandyal/static/media/DESIGN.0a740eaec4d43a3cb31d.jpg",
+    "static/media/2022-08-05.jpg": "/kptailorsnandyal/static/media/2022-08-05.ac7c5fb4c83433dfd416.jpg",
+    "static/media/2021-12-15 (1).jpg": "/kptailorsnandyal/static/media/2021-12-15 (1).a37d76c11823cba91f12.jpg",
+    "index.html": "/kptailorsnandyal/index.html",
+    "main.7789d85b.css.map": "/kptailorsnandyal/static/css/main.7789d85b.css.map",
+    "main.3edade8b.js.map": "/kptailorsnandyal/static/js/main.3edade8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bae5df1.css",
+    "static/css/main.7789d85b.css",
     "static/js/main.3edade8b.js"
   ]
 }
