@@ -1,0 +1,139 @@
+/* App.css */
+
+/* Header styles */
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100px; /* Adjust the height of the header as needed */
+  background-color: black; /* Black background color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex; /* Display the list items horizontally */
+}
+
+nav ul li {
+  margin-right: 20px; /* Add spacing between navigation items */
+}
+
+nav ul li:last-child {
+  margin-right: 0; /* Remove margin from the last navigation item */
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+nav ul li a:hover {
+  color: #ffc107; /* Change color on hover */
+}
+
+/* Main content styles */
+main {
+  margin-top: 100px; /* Adjust the margin-top to match the height of the header */
+  padding: 20px;
+}
+
+/* Section content styles */
+.section-content {
+  margin-top: 0px;
+  padding: 0px; /* Add padding to the content */
+  border-radius: 8px; /* Add border radius */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box shadow */
+  background-size: 1050px 850px; /* Make the background image cover the entire section */
+  background-position: left; /* Center the background image */
+}
+
+/* Define background images for each section */
+.home {
+  background-image: url('C:/Users/HP LAPY/OneDrive/Pictures/kp.tailers/kp.jpg.jpg');
+  width: 1685px; 
+  height: 500px;  
+  padding-top: 390px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  background-attachment: fixed; /* Ensure the background image remains fixed */
+  background-position: 200px 50px ;
+  color: rgb(0, 0, 0);
+  border-color: rgb(236, 232, 232);
+
+
+}
+
+.services {
+  background-image: url("C:\Users\HP LAPY\OneDrive\Pictures\kp.tailers\machine.jpg");
+  width: 1500px; 
+  height: 500px;  
+  padding-top: 20px;
+  background-attachment: fixed;
+  padding-left: 20px; 
+  font-weight: bold;
+  background-color: #ffc107;
+}
+
+.gallery {
+  background-image: url("C:/Users/HP LAPY/OneDrive/Pictures/kp.tailers/DESIGN.jpg");
+  width: 1450px; 
+  height: 500px;  background-attachment: 
+  fixed; background-repeat: no-repeat;
+}
+
+.about {
+  background-image: url("C:/Users/HP LAPY/OneDrive/Pictures/kp.tailers/2021-12-15 (1).jpg");
+  width: 1500px; 
+  height: 500px;
+  background-attachment: fixed;
+  padding-top: 350px;
+  font-weight: bold;
+  padding-left: 10px;
+  background-color: #ffc107;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+  color: rgba(0, 0, 0, 0.904);
+
+}
+
+.contact {
+  background-image: url("C:/Users/HP LAPY/OneDrive/Pictures/kp.tailers/2022-08-05.jpg");
+  width: 1600px; 
+  height: 500px;
+  background-attachment: fixed;
+  background-position: 500px;
+  background-repeat: no-repeat;
+  background-color: aqua;
+  padding-left: 10px;
+}
+
+
+/* Add any additional styling as needed */
+/* Add this to your App.css */
+.video-container {
+
+  position: relative;
+  width: 700px;
+  height: 100px;
+  padding-top: 400px;
+}
+
+.video-container video {
+  position: absolute;
+  top: 50px;
+  left: 800px;
+  width: 100%;
+  height: 100%;
+}
